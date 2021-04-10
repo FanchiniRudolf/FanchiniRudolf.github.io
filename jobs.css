@@ -1,0 +1,20 @@
+body {
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFF8E7;
+}
+
+h3 {
+    color: #222644;
+    font-size: 22px;
+}
+
+#dateTime {
+    color: #1F3884;
+    font-size: 15px;
+}
+
+#desc {
+    font-size: 15px;
+}
